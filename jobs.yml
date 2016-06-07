@@ -1,5 +1,5 @@
 jobs:
-  - name : testresourcejob1
+  - name : testresourcejob2
     type : manifest
     steps :
       - GET vtestresource3
