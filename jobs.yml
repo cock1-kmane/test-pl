@@ -5,7 +5,7 @@ jobs:
       - GET vtestresource3
       #- PUT vtestresource3
       
-  - name : testresourcejob2
+  - name : testresourcejob3
     type : manifest
     steps :
       - GET vtestresource4
